@@ -1,0 +1,24 @@
+{
+  "name": "dank-memer-source-code",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.5",
+    "discord.js": "^12.5.1",
+    "eris-sharder": "^1.10.0",
+    "express": "^4.17.1",
+    "ioredis": "^4.24.5",
+    "lavalink": "^2.11.0",
+    "node-dogstatsd": "0.0.7",
+    "programmatic-repl": "^1.1.4",
+    "rethinkdbdash": "^2.3.31",
+    "tubesearch": "^1.1.0"
+  }
+}
